@@ -198,7 +198,7 @@ find . -type f -name '*.bak' -delete
 
 2.5.7
 
-find . -type f ( -name '.txt' -o -name '.sh' )
+find . -type f \( -name '.txt' -o -name '.sh' \)
 
 2.5.8
 
